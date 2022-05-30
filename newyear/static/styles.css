@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    font-size: 3rem;
+    font-family: sans-serif;
+    color: #fff;
+}
+
+h2 {
+    color: rgb(0, 174, 255);
+}
+
+div {
+    background: rgb(39, 39, 39);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
